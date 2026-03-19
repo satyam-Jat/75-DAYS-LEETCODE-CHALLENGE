@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0125-valid-palindrome) |
+| [0058-length-of-last-word](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |

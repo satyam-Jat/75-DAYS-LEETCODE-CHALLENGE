@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0125-valid-palindrome) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0344-reverse-string) |
+| [0283-move-zeroes](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

@@ -4,14 +4,18 @@ class Solution {
         int arr[]=new int[2];
         int low=0;
         int high=n-1;
+       
         while(low<high)
         {
-            if(numbers[low]+numbers[high]==target) return new int[]{low+1,high+1};
+            if(numbers[low]+numbers[high]==target) 
+            {arr[0]=low+1;
+            arr[1]=high+1;
+            return arr;} 
             else if(numbers[low]+numbers[high]>target) high--;
             else{
                 low++;
             }
         }
-        return new int[]{};
+        return arr;
     }
 }

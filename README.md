@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0283-move-zeroes) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0015-3sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0015-3sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0347-top-k-frequent-elements) |
+| [0015-3sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0344-reverse-string) |
 | [0283-move-zeroes](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0283-move-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0015-3sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |

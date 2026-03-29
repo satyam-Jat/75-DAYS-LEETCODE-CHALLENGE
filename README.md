@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0015-3sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0027-remove-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0283-move-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0015-3sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |

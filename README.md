@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0344-reverse-string) |
 | [0022-generate-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0066-plus-one](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
 | ------- |

@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0344-reverse-string) |
 | [0022-generate-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0168-excel-sheet-column-title) |
+| [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0503-next-greater-element-ii) |
+| [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -109,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
@@ -136,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
 | [0191-number-of-1-bits](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

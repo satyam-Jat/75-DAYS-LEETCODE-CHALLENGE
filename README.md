@@ -107,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0066-plus-one](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

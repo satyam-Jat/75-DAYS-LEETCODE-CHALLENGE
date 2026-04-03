@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0260-single-number-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

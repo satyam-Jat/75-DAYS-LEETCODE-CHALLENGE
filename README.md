@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1480-running-sum-of-1d-array) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0724-find-pivot-index) |
+| [0238-product-of-array-except-self](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0238-product-of-array-except-self) |
 ## Backtracking
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1480-running-sum-of-1d-array) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0724-find-pivot-index) |
+| [0238-product-of-array-except-self](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0238-product-of-array-except-self) |
 ## Design
 |  |
 | ------- |

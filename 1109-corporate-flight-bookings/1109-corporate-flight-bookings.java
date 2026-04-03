@@ -5,10 +5,11 @@ class Solution {
             int first=arr[i][0];
             int last=arr[i][1];
             int seat=arr[i][2];
-            for(int j=first-1;j<=last-1;j++){
-                ans[j]+=seat;
+            ans[first-1]+=seat;
+            if(last-1+1<n) ans[last]-=seat;}
+            for(int j=1;j<n;j++){
+                ans[j]+=ans[j-1];
             }
-        }
         return ans;
     }
 }

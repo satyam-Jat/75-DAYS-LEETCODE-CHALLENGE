@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0260-single-number-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,4 +144,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
 | [0260-single-number-iii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0260-single-number-iii) |
 | [0190-reverse-bits](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0190-reverse-bits) |
+| [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->

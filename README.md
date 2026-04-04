@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0168-excel-sheet-column-title) |
 | [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0724-find-pivot-index) |
 | [0238-product-of-array-except-self](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1109-corporate-flight-bookings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Design
 |  |
 | ------- |

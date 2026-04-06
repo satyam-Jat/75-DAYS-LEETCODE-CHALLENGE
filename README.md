@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0724-find-pivot-index) |
 | [0238-product-of-array-except-self](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1109-corporate-flight-bookings) |
+| [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -69,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0503-next-greater-element-ii) |
+| [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |

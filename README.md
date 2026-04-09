@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

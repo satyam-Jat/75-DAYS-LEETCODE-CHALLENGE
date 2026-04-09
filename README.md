@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
+| [0021-merge-two-sorted-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 ## Queue
 |  |
 | ------- |
@@ -193,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0142-linked-list-cycle-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0061-rotate-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0061-rotate-list) |
+| [0021-merge-two-sorted-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

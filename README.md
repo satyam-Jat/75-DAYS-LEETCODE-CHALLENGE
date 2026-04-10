@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
+| [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
 | [0021-merge-two-sorted-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |

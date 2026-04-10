@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0191-number-of-1-bits](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0191-number-of-1-bits) |
 | [0190-reverse-bits](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0190-reverse-bits) |
+| [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,4 +198,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0061-rotate-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0061-rotate-list) |
 | [0021-merge-two-sorted-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

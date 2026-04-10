@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode p=null; //prevoius pointer point to null(before headC)
         ListNode c=head; //current me head
@@ -11,4 +11,19 @@ class Solution {
         }
         return p;
     }
+    //t.c O(n)
+    //s.c=O(1)
 }
+*/
+//pehle recursion se last se 2nd tk reverse krwa lo then , 2nd wala 1st se jod do ,1st wala null se jod do.
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        if(head==null || head.next==null) return head; //base case
+        ListNode a=head.next; // a ka pointer baha rkh dia jaha tk recursion le ayega reverse krke
+        ListNode newHead=reverseList(a); //last m hoga bahi nya head recursive function m.
+        a.next=head; //changing pointing nodes
+        head.next=null;
+        return newHead;
+    }
+}
+

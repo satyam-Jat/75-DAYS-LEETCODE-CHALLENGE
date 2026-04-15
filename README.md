@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [0092-reverse-linked-list-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0092-reverse-linked-list-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0725-split-linked-list-in-parts) |
 ## Merge Sort
 |  |
 | ------- |

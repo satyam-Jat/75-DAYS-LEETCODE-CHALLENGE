@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0342-power-of-four) |
 | [0069-sqrtx](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0069-sqrtx) |
+| [3783-mirror-distance-of-an-integer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |

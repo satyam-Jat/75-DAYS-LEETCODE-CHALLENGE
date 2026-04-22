@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0141-linked-list-cycle](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0142-linked-list-cycle-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0138-copy-list-with-random-pointer) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0092-reverse-linked-list-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [0138-copy-list-with-random-pointer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0138-copy-list-with-random-pointer) |
 ## Merge Sort
 |  |
 | ------- |

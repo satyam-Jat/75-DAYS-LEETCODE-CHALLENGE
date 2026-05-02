@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2833-furthest-point-from-origin) |
+| [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0069-sqrtx) |
 | [3783-mirror-distance-of-an-integer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3783-mirror-distance-of-an-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1137-n-th-tribonacci-number) |
+| [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0260-single-number-iii) |
 | [0190-reverse-bits](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0190-reverse-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
+| [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 ## Prefix Sum
 |  |
 | ------- |

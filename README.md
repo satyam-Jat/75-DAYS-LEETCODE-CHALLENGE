@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 | [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,4 +230,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1137-n-th-tribonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

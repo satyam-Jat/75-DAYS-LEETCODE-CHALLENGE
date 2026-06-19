@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1109-corporate-flight-bookings) |
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 | [0493-reverse-pairs](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0493-reverse-pairs) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0069-sqrtx](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0493-reverse-pairs) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0190-reverse-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
 | [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |

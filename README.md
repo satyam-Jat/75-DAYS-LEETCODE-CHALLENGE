@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 | [0493-reverse-pairs](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0493-reverse-pairs) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
+| [0041-first-missing-positive](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0041-first-missing-positive) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0138-copy-list-with-random-pointer) |
+| [0041-first-missing-positive](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0041-first-missing-positive) |
 ## Sorting
 |  |
 | ------- |

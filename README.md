@@ -85,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
 | [0234-palindrome-linked-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0496-next-greater-element-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0493-reverse-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

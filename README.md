@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0041-first-missing-positive) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1901-find-a-peak-element-ii) |
+| [0004-median-of-two-sorted-arrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0004-median-of-two-sorted-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0493-reverse-pairs) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0004-median-of-two-sorted-arrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0004-median-of-two-sorted-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1901-find-a-peak-element-ii) |
+| [0004-median-of-two-sorted-arrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0004-median-of-two-sorted-arrays) |
 ## Sliding Window
 |  |
 | ------- |

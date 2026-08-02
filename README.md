@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |

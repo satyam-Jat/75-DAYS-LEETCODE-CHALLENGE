@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1109-corporate-flight-bookings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 ## Design
 |  |
 | ------- |

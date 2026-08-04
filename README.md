@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0022-generate-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |

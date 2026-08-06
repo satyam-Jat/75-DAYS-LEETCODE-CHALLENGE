@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
 ## Backtracking
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
 ## Bit Manipulation
 |  |
 | ------- |

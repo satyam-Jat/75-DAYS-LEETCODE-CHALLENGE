@@ -1,18 +1,19 @@
 class Solution {
-    public int[] twoSum(int[] num, int target) {
-        for(int i=0;i<num.length;i++)
-        {
-            for(int j=i+1;j<num.length;j++)
-            {
-                if(num[i]+num[j]==target)
-                {
-                    return new int[] {i,j};
-                }
-// java me nums[] ek object hota hai or isko new se return krte hai
-
+    public int[] twoSum(int[] nums, int target) {
+        int arr[]=new int[2];
+        HashMap<Integer,Integer>map=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            int rem=target-nums[i];
+            if(map.containsKey(rem)){
+                arr[0]=i;
+                arr[1]=map.get(rem);
+                break;
+            }
+            else{
+                map.put(nums[i],i);
             }
 
         }
-        return new int[] {};//returning array 
+        return arr;
     }
 }

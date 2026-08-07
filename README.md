@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |

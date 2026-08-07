@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0041-first-missing-positive) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3783-mirror-distance-of-an-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1137-n-th-tribonacci-number) |
 | [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
+| [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1109-corporate-flight-bookings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |

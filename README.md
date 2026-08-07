@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
+| [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0138-copy-list-with-random-pointer) |
 | [0041-first-missing-positive](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0041-first-missing-positive) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1052-grumpy-bookstore-owner) |
+| [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
 | ------- |

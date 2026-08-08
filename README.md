@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2833-furthest-point-from-origin) |
 | [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1310-xor-queries-of-a-subarray) |
 | [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Design
 |  |
 | ------- |

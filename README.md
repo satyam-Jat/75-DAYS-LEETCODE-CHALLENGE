@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
+| [1046-last-stone-weight](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1046-last-stone-weight) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |

@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [1903-largest-odd-number-in-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [1903-largest-odd-number-in-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -337,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [1903-largest-odd-number-in-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

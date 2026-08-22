@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
 | [1046-last-stone-weight](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/2833-furthest-point-from-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
 | [1046-last-stone-weight](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1046-last-stone-weight) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1207-unique-number-of-occurrences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [1903-largest-odd-number-in-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1903-largest-odd-number-in-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1248-count-number-of-nice-subarrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |

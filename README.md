@@ -353,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [1903-largest-odd-number-in-string](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/1903-largest-odd-number-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/satyam-Jat/75-DAYS-LEETCODE-CHALLENGE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

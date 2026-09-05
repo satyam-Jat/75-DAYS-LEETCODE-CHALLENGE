@@ -1,23 +1,38 @@
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List <String> result= new ArrayList<>();
-        solve(result,"",n,n);
-        return result;
+    ArrayList<String> result = new ArrayList<>();
+
+    public boolean isValid(String s) {
+        int count = 0;
+        for (char c : s.toCharArray()) {
+            if (c == '(') count++;
+            else {
+                count--;
+                if (count < 0) return false;
+            }
+        }
+        return count == 0;
     }
-    public void solve(List<String>result,String op,int open,int close)
-    {
-        if(open==0 && close==0)
-        {
-            result.add(op);
-            return ;
+
+    public void solve(StringBuilder curr, int n) {
+        if (curr.length() == 2 * n) {
+            if (isValid(curr.toString())) {
+                result.add(curr.toString());
+            }
+            return;
         }
-        if(open>0) {
-            
-            solve(result,op+"(",open-1,close);
-        }
-        if(close>open){
-           
-            solve(result,op+")",open,close-1);
-        }
+
+        curr.append('(');
+        solve(curr, n);
+        curr.deleteCharAt(curr.length() - 1);
+
+        curr.append(')');
+        solve(curr, n);
+        curr.deleteCharAt(curr.length() - 1);
+    }
+
+    public List<String> generateParenthesis(int n) {
+        StringBuilder curr = new StringBuilder();
+        solve(curr, n);
+        return result;
     }
 }
